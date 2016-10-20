@@ -1,0 +1,16 @@
+{
+    "name": "certificationy/yaml-linter",
+    "description": "Validate all Yaml files in a path",
+    "type": "application",
+    "require": {
+        "symfony/console": "dev-master",
+        "symfony/yaml": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mickaël Andrieu",
+            "email": "andrieu.travail@gmail.com"
+        }
+    ]
+}
