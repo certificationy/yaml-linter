@@ -3,8 +3,8 @@
     "description": "Validate all Yaml files in a path",
     "type": "application",
     "require": {
-        "symfony/console": "dev-master",
-        "symfony/yaml": "dev-master"
+        "symfony/console": "3.2.*",
+        "symfony/yaml": "3.2.*"
     },
     "license": "MIT",
     "authors": [
